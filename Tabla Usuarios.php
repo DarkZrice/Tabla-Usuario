@@ -10,6 +10,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <table>
+        <thread>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha de resgistro</th>
+                <th>Compras realizadas</th>
+                <th>Estado</th>
+            </tr>
+        </thread>
+
+    </table>
 </body>
 </html>
